@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Redefinindo a Leitura: Como as IAs estão transformando o conhecimento 🧠
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book de 17 páginas apresenta curiosidades e informações relevantes sobre como as IAs estão impactando no hábito da leitura.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para pesquisas e organização dos conteúdos;
+- IA Generativa **[Magic Media - Canva](https://www.canva.com/)** para gerar as imagens do e-book;
+- Site **[Canva](https://www.canva.com/)** para criação e edição da capa do e-book;
+- Site **[Google Docs](https://www.canva.com/)** para estruturação e produção do material
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O processo de criação foi bem interessante, consegui explorar o CharGPT de uma forma que me surpreendeu, a riqueza de informações que pode ser conquistada se utilizarmos corretamente as palavras, proporcionam um leque de opções. Utilizei o GPT para realizar pesquisas e argumentar pontos importantes para cada tópico. 
+
+Busquei algumas inspirações de capa na internet, mas não fiquei satisfeito, então decidi criar o meu próprio design (acredito que ficou bem bacana) - após ter desenhado no papel, fui no site Canva e organizei a capa de modo que ficasse bem legal. Feito isso, o próximo desafio seria organizar as informações nas páginas de modo que ficasse interessante, cativante e de fácil compreensão para os leitores. Utilizando o Google Docs, consegui fazer boa parte da produção do material com tranquilidade.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A leitura desse e-book incentiva o interesse pela leitura e tecnologia, promovendo a reflexão crítica e o aprendizado contínuo. Ele estimula a ética e a responsabilidade no uso da IA na educação, incentivando a inclusão digital. A obra também aproximará os leitores da tecnologia, inspirando uma visão mais integrada do futuro da leitura e do aprendizado.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Agora, qual o seu veredito?
+Natty or not?
 
-### Exemplos e Insigths
+[CLIQUE AQUI PARA LER O E-BOOK](https://docs.google.com/document/d/16zm5vNEXcstQwGVMSnKbLCTazjCkl9CNyV8YGoTU_bk/edit?usp=sharing)
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 💭 Reflexão
+Participar desse desafio me fez ter uma noção do quão longe podemos ir na busca pelo conhecimento se utilizarmos as IAs com responsabilidade!
